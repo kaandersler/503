@@ -1,0 +1,30 @@
+{
+    "kullanicilar": [
+        {
+            "name": "Mahmut",
+            "surname": "Tuncer",
+            "age": 63,
+            "kadi": "mamo",
+            "pass": 123
+        },
+        {
+            "name": "Ajdar",
+            "surname": "Anık",
+            "age": 51,
+            "kadi": "ajdo",
+            "pass": 456
+        }
+    ],
+    "admin":[
+        {
+            "name":"Hakan",
+            "kadi":"hako",
+            "pass":789
+        },
+        {
+            "name":"Canan",
+            "kadi":"cano",
+            "pass":963
+        }
+    ]
+}
